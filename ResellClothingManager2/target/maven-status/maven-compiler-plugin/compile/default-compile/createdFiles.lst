@@ -1,0 +1,6 @@
+module-info.class
+com/clothingmanager/resellclothingmanager2/App.class
+com/clothingmanager/resellclothingmanager2/Inventory.class
+com/clothingmanager/resellclothingmanager2/Product.class
+com/clothingmanager/resellclothingmanager2/SystemInfo.class
+com/clothingmanager/resellclothingmanager2/RCM.class
